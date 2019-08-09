@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Envio de Email</string>
+    <string name="compose_email">Componentes</string>
+</resources>
